@@ -1,0 +1,2 @@
+# wordpress
+clean installation wordpreess
